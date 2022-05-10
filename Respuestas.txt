@@ -1,0 +1,3 @@
+2)f) No puedo ver la carpeta debido a que estoy en la branch master. Por lo tanto git me esconde las demás ramas ramas.
+Luego de agregar el archivo .txt y haber ejecutado el comando gitk --all, note que se desprendió otro camino del principal. Ese camino (que en realidad es una rama) es la opción 2, que esta de color azul, mientras que el main esta de color amarillo.
+Finalmente, despues de realizar el merge, los caminos se unieron en uno solo. En realidad, el camino de la opcion dos volvio a la rama principl.
